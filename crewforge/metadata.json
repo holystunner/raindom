@@ -1,0 +1,6 @@
+{
+  "name": "AetherOps // Autonomous CrewAI Workforce Cloud",
+  "description": "Enterprise AI Ops command center to spawn, orchestrate, and direct live cloud-hosted CrewAI workforces with direct OpenAPI management agents, credential vaults, and real-time execution telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
